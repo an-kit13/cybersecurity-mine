@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Password Strength Checke](#password-strength-checker)
+1. [Password Strength Checker](#password-strength-checker)
 2. [Caesar Cipher](#caesar-cipher)
 3. [Basic Keylogger](#basic-keylogger)
 4. [Advanced Keylogger](#advanced-keylogger)
